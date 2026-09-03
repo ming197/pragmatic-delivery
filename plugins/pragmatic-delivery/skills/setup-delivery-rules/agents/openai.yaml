@@ -1,0 +1,6 @@
+interface:
+  display_name: "Setup Delivery Rules"
+  short_description: "Install the managed 80/20 delivery rules into a software project"
+  default_prompt: "Use $setup-delivery-rules to install the pragmatic delivery rules in this project."
+policy:
+  allow_implicit_invocation: false
