@@ -1,0 +1,9 @@
+{
+  "name": "pragmatic-delivery",
+  "version": "1.0.0",
+  "description": "Risk-adaptive 80/20 software delivery for Codex and Claude Code",
+  "author": {
+    "name": "Pragmatic Delivery"
+  },
+  "skills": "./skills/"
+}
