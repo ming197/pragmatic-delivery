@@ -1,0 +1,22 @@
+{
+  "name": "pragmatic-delivery",
+  "version": "1.0.0",
+  "description": "Risk-adaptive 80/20 software delivery for Codex and Claude Code",
+  "author": {
+    "name": "Pragmatic Delivery"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pragmatic Delivery",
+    "shortDescription": "Ship small correct changes; plan or review only when risk justifies it.",
+    "longDescription": "Installs an 80/20 delivery policy for ordinary software changes, a bounded planning skill for material uncertainty, and a focused security review for high-impact boundaries.",
+    "developerName": "Pragmatic Delivery",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Write"],
+    "defaultPrompt": [
+      "Install pragmatic delivery rules in this project.",
+      "Plan this complex change without producing a full spec.",
+      "Review the security-critical boundaries of this change."
+    ]
+  }
+}
