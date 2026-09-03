@@ -1,0 +1,20 @@
+{
+  "name": "pragmatic-delivery-kit",
+  "interface": {
+    "displayName": "Pragmatic Delivery Kit"
+  },
+  "plugins": [
+    {
+      "name": "pragmatic-delivery",
+      "source": {
+        "source": "local",
+        "path": "./plugins/pragmatic-delivery"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
