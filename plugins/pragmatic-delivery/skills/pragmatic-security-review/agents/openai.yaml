@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pragmatic Security Review"
+  short_description: "Review high-risk changes for realistic security failures"
+  default_prompt: "Use $pragmatic-security-review to review this high-risk change."
