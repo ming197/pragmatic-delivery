@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planning First"
+  short_description: "Plan briefly when uncertainty makes direct implementation risky"
+  default_prompt: "Use $planning-first to produce a compact implementation plan for this task."
