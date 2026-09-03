@@ -1,0 +1,14 @@
+{
+  "name": "pragmatic-delivery-kit",
+  "owner": {
+    "name": "Pragmatic Delivery"
+  },
+  "plugins": [
+    {
+      "name": "pragmatic-delivery",
+      "source": "./plugins/pragmatic-delivery",
+      "description": "Risk-adaptive 80/20 software delivery for Codex and Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}
